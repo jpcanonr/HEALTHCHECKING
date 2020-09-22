@@ -26,3 +26,8 @@ y finaliza con el mensaje:
 NOTA: Si el script se demora más de lo usual ejecutarlo como
     bash -x hcmq.sh
 Para ejecutar en modo debug y ver el proceso de ejecución.
+
+# Instrucciones Script WMB e IIB
+
+1. Usar usuario usrtinte
+2. Ejecutar script hciib.sh y seleccionar usuario de trabajo; mqsi o mqsiadm
